@@ -6,4 +6,7 @@ Please note that the Real-News-Generator is purely a research project and should
 For more information on how to use the Real-News-Generator and its underlying technologies, please refer to the documentation in this repository.
 
 
+How to Run the Program:
+
 pip3 install spacy
+python -m spacy download en_core_web_sm

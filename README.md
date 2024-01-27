@@ -6,3 +6,4 @@ Please note that the Real-News-Generator is purely a research project and should
 For more information on how to use the Real-News-Generator and its underlying technologies, please refer to the documentation in this repository.
 
 
+pip3 install spacy
